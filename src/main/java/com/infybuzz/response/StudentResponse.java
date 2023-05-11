@@ -1,4 +1,4 @@
-package src.main.java.com.infybuzz.response;
+package com.infybuzz.response;
 
 import java.util.List;
 
@@ -16,13 +16,14 @@ public class StudentResponse {
 	private String lastName;
 
 	private String email;
-	
+
 	private String street;
 
 	private String city;
-	
+
 	private List<SubjectResponse> learningSubjects;
-	
+
 	private String fullName;
 
 }
+

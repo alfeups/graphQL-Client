@@ -1,4 +1,4 @@
-package src.main.java.com.infybuzz.request;
+package com.infybuzz.request;
 
 import lombok.Getter;
 import lombok.Setter;
@@ -8,6 +8,6 @@ import lombok.Setter;
 public class CreateSubjectRequest {
 
 	private String subjectName;
-	
+
 	private Double marksObtained;
 }

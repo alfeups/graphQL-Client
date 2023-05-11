@@ -1,4 +1,4 @@
-package src.main.java.com.infybuzz.request;
+package com.infybuzz.request;
 
 import java.util.List;
 

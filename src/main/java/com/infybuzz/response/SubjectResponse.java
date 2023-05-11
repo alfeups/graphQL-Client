@@ -1,4 +1,4 @@
-package src.main.java.com.infybuzz.response;
+package com.infybuzz.response;
 
 import lombok.Getter;
 import lombok.Setter;
@@ -8,9 +8,9 @@ import lombok.Setter;
 public class SubjectResponse {
 
 	private Long id;
-	
+
 	private String subjectName;
 
 	private Double marksObtained;
-	
+
 }
